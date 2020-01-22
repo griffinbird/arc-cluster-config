@@ -3,7 +3,7 @@
     kind: Deployment
     metadata:
       name: podinfo
-      namespace: demo
+      namespace: team-c
       labels:
         app: podinfo
       annotations:
